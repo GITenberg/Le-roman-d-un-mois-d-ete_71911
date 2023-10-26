@@ -1,0 +1,33 @@
+_repo: Le-roman-d-un-mois-d-ete_71911
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bernard, Tristan
+    alias: Bernard, Paul
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '55824'
+    url: http://www.gutenberg.org/2009/agents/55824
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Tristan_Bernard
+    - https://fr.wikipedia.org/wiki/Tristan_Bernard
+description: ''
+gutenberg_issued: '2023-10-19'
+identifiers:
+  gutenberg: '71911'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9796260t
+pgterms:marc905: 20230409230627bernard
+pgterms:marc906: '1909'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel, Pierre Lacaze and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bOllendorff, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le roman d'un mois d'été
+url: http://www.gutenberg.org/ebooks/71911
